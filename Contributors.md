@@ -8373,6 +8373,7 @@ Benzene
 - [Jon Tonti](https://github.com/jtontiwith)
 - [Mouffy](https://github.com/mcampourcy)
 - [Capitan Falafel](https://github.com/CapitanFalafel)
+- [Dan St Jean] (https://github.com/danstj)
 - [B Choe](https://github.com/bchoe)
 - [Leonard Broman](https://github.com/lbroman)
 - [Illya Stolpakov](https://github.com/settnozz)
